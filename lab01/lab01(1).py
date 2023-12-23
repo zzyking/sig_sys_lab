@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
 # 信号参数
 f_continuous = 5.0  # 连续信号的频率
 duration = 0.201  # 信号的时长（秒）
