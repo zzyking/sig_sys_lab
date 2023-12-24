@@ -72,5 +72,5 @@ plt.title('Comparison of Analytical and Numerical Solution')
 plt.xlabel('Time (s)')
 plt.ylabel('Amplitude')
 plt.legend()
-plt.savefig("Conv.png", dpi=300)
+plt.savefig("Conv.png", dpi=300) # 保存图片
 plt.show()
