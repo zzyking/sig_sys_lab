@@ -42,23 +42,23 @@ for i, rate in enumerate(sampling_rates):
 
 #### 原图像
 
-![[continuous.png]]
+![continuous.png](continuous.png)
 
 #### 20Hz 抽样
 
-![[20Hz 1.png]]
+![20Hz.png](20Hz.png)
 
 #### 30Hz 抽样
 
-![[30Hz.png]]
+![30Hz.png](30Hz.png)
 
 #### 40Hz 抽样
 
-![[40Hz.png]]
+![40Hz.png](40Hz.png)
 
 #### 50Hz 抽样
 
-![[50Hz.png]]
+![50Hz.png](50Hz.png)
 
 得出结论：**抽样频率越高，离散信号对连续信号的表示越准确.**
 
@@ -100,4 +100,4 @@ for selected_note in piano_notes.keys():
 
 安装对应库后，程序运行时可以自动播放出 C4-B4 音高的乐音，C4 的波形如下：
 
-![[C4.png]]
+![C4.png](C4.png)
